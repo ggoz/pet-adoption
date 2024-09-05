@@ -3,3 +3,6 @@ keys.json
 # hardhat fiels
 artifacts
 cache
+
+frontend/public/pets.json
+frontend/src/contracts
